@@ -1,0 +1,22 @@
+{
+    "name": "Meta Monster Card #14",
+    "description": "Meta Monster Card",
+    "image": "https://arweave.net/zDewkeS1hFCnH3F16ltGBIzixoG4brvIji3g9U2HzmE",
+    "seller_fee_basis_points": 50,
+    "symbol": "MMC",
+    "properties": {
+      "creators": [
+        {
+          "share": 100,
+          "address": "7FeQ5jSCW71SYfxLtsEdmFSd45xFGiunRG7MZATdPoKu"
+        }
+      ]
+    },
+    "external_url": "https://twitter.com/VinciWorld",
+    "collection": {
+      "name": "Mon Nft Collection"
+    },
+    "attributes": [
+
+    ]
+  }

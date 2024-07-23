@@ -1,0 +1,17 @@
+{
+    "name": "Card Badge",
+    "symbol": "CBC",
+    "description": "Card Badge",
+    "seller_fee_basis_points": 50,
+    "image": "https://arweave.net/BtRKo4rHrgdRXK2q6TqiOyQ5-GVstoyH7Qz_q68G02E",
+    "attributes": [
+   	],
+    "properties":
+    {
+        "files": [
+        {
+            "uri": "https://arweave.net/BtRKo4rHrgdRXK2q6TqiOyQ5-GVstoyH7Qz_q68G02E",
+            "type": "image/png"
+        }]
+    }
+}
