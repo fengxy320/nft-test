@@ -1,16 +1,17 @@
 {
-    "name": "Card Badge",
-    "symbol": "CBC",
-    "description": "Card Badge",
-    "seller_fee_basis_points": 50,
-    "image": "https://arweave.net/BtRKo4rHrgdRXK2q6TqiOyQ5-GVstoyH7Qz_q68G02E",
+    "name": "Lord Badge Collection",
+    "symbol": "LB",
+    "description": "The Lord Badge NFT is a unique symbol representing noble status in Monster Lord, with a total of 99 issued. Players who hold the Lord Badge NFT will become market partners, have the rights and interests of DAO governance, and enjoy the benefits of the Lord Badge NFT. ",
+    "seller_fee_basis_points": 500,
+    "image": "https://res.monsterlord.pro/nftcbc/LB1.png",
+    "external_url": "https://www.monsterlord.pro/",
     "attributes": [
    	],
     "properties":
     {
         "files": [
         {
-            "uri": "https://arweave.net/BtRKo4rHrgdRXK2q6TqiOyQ5-GVstoyH7Qz_q68G02E",
+            "uri": "https://res.monsterlord.pro/nftcbc/LB1.png",
             "type": "image/png"
         }]
     }

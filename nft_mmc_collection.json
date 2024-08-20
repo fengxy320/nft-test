@@ -1,16 +1,17 @@
 {
-    "name": "Meta Monster Card",
+    "name": "Meta Monster Card Collection",
     "symbol": "MMC",
-    "description": "Meta Monster Card",
-    "seller_fee_basis_points": 50,
-    "image": "https://arweave.net/BtRKo4rHrgdRXK2q6TqiOyQ5-GVstoyH7Qz_q68G02E",
+    "description": "The Meta Monster Card NFT serves as a unique identity symbol within the Monster Metaverse, granting holders access to token airdrops and exclusive game privileges",
+    "seller_fee_basis_points": 500,
+    "image": "https://res.monsterlord.pro/nftmmc/M1.png",
+    "external_url": "https://www.monsterlord.pro/",
     "attributes": [
    	],
     "properties":
     {
         "files": [
         {
-            "uri": "https://arweave.net/BtRKo4rHrgdRXK2q6TqiOyQ5-GVstoyH7Qz_q68G02E",
+            "uri": "https://res.monsterlord.pro/nftmmc/M1.png",
             "type": "image/png"
         }]
     }
